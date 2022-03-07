@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mahmoudsafan240@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gkkD_eS0PyKBlq8F4plwaH7k3b-WRVdy/view?usp=sharing](https://drive.google.com/file/d/1gkkD_eS0PyKBlq8F4plwaH7k3b-WRVdy/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1gkkD_eS0PyKBlq8F4plwaH7k3b-WRVdy/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
