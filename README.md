@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Safan</h1>
 <h3 align="center">A passionate back-end developer from Egypt</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack and IOS Development**
 
 - 💬 Ask me about **Javascript, Back-end**
 
