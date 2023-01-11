@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Safan</h1>
 <h3 align="center">A passionate back-end developer from Egypt</h3>
 
-- 🌱 I’m currently learning **MEAN Stack and IOS Development**
-
-- 💬 Ask me about **Javascript, Back-end**
+- 🌱 I’m currently **Back-End Developer**
 
 - 📫 How to reach me **mahmoudsafan240@gmail.com**
-
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1gkkD_eS0PyKBlq8F4plwaH7k3b-WRVdy/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
